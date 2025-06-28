@@ -29,14 +29,21 @@ CSV format with a column named smiles**
 SMI format (optional): One SMILES per line
 
 **🚀 To Run the App**
-Save the script as app.py, then in terminal:
+Save the script as app.py, then in the terminal:
 
 bash
 
 streamlit run app.py
 
+![image](https://github.com/user-attachments/assets/416428cd-1b75-409d-9863-51393e179f52)
+
+
+![image](https://github.com/user-attachments/assets/d1f9e452-1bbc-4081-9fe0-1e8cc2214ddb)
+
 
 ![Screenshot 2025-06-27 210925](https://github.com/user-attachments/assets/e67202b3-c56b-4040-86f0-5d1f14e0878f)
+
+
 
 
 Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
