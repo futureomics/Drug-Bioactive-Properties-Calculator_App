@@ -44,6 +44,10 @@ streamlit run app.py
 ![Screenshot 2025-06-27 210925](https://github.com/user-attachments/assets/e67202b3-c56b-4040-86f0-5d1f14e0878f)
 
 
+![Screen Recording 2025-06-27 211021](https://github.com/user-attachments/assets/b44fde7f-ce9b-4e9d-ab04-e401398d8e38)
+
+
+
 
 
 Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
